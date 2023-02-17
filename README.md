@@ -6,7 +6,7 @@ As a business analytics and information systems student, I am currently practici
 # How to Run Program
 Here is a list of direction on how to run the program.
 # Files Used
-No external data files were used on this project. However enjoy these statistics on the [Iowa versus Iowa State football rivalry.](http://www.winsipedia.com/iowa/vs/iowa-state)
+No external data files were used on this project. However **enjoy** these statistics on the [Iowa versus Iowa State football rivalry.](http://www.winsipedia.com/iowa/vs/iowa-state)
 # Additional Information
 There is currently no additional information at this time. *Enjoy the italicized text!*
 # Versioning
